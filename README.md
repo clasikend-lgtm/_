@@ -8,9 +8,9 @@
 <p align="center"><i>Порядок в галактике.</i></p>
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Clone_Wars,_From_Republic_to_Empire.gif"
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpd2M1eTgwZHZmaW10OTF6aHVuaHI2ZmppZWM4bzk1YTlsYXJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA2IwgX1MWQcPl6g/giphy.gif"
        width="680"
-       alt="Переход от Республики к Галактической Империи">
+       alt="Long live the Empire!">
 </p>
 
 <p align="center">
@@ -27,9 +27,6 @@
 
 > «Вас приветствует Галактическая Империя.»
 
-## Технологии
-
-- **Язык:** C++
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hxYWdpYnpwNmF6eWF5dGlrdDQ5cGdteW1tNXp4Z3hwNXRnMzNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KoAQvGUg2fj1fCNHuR/giphy.gif"
