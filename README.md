@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Project-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/IMPERIAL-PROJECT-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LOYALTY-TO%20THE%20EMPIRE-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LOYALTY-LONG%20LIVE%20THE%20EMPIRE-111111?style=for-the-badge">
 </p>
 
 ---
