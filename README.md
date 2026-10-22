@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/ru/view/darth-vader-darth-maul-shadow-lord-star-wars-gif-18425083877070959622"
+  <img src="https://media1.tenor.com/m/_7MMKnmXdAYAAAAC/darth-vader-darth-maul-shadow-lord.gif"
        width="360"
        alt="May the 4th be with you — анимированный постер">
 </p>
