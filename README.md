@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_First_Galactic_Empire.svg"
-       width="110"
+  <img src="https://static.wikia.nocookie.net/starwars/images/2/2e/Imperial_Emblem.svg/revision/latest?cb=20250720193931"
+       width="200"
        alt="Эмблема Галактической Империи">
 </p>
 
@@ -23,7 +23,7 @@
 
 ## Имперский архив
 
-**IMPERIAL PROJECT** — кратко опиши здесь, что делает твоя программа и какую задачу решает.
+**IMPERIAL PROJECT** — Установить Новый порядок в Галактике
 
 > «Вас приветствует Галактическая Империя.»
 
@@ -36,16 +36,3 @@
 ## Технологии
 
 - **Язык:** C++
-- **Сборка:** CMake
-- **Стандарт:** [например, C++17 или C++20]
-- **Платформы:** [Windows / Linux / macOS]
-
-## Сборка
-
-Требуются установленный компилятор C++ и CMake.
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
-cmake -S . -B build
-cmake --build build
