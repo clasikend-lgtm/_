@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_First_Galactic_Empire.svg"
-       width="200"
+       width="250"
        alt="Эмблема Галактической Империи">
 </p>
 
 <h1 align="center">IMPERIAL PROJECT</h1>
-<p align="center"><i>Порядок в галактике. Порядок в коде.</i></p>
+<p align="center"><i>Порядок в галактике.</i></p>
 
 <p align="center">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Clone_Wars,_From_Republic_to_Empire.gif"
