@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/LOYALTY-LONG%20LIVE%20THE%20EMPIRE-111111?style=for-the-badge">
 </p>
 
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hxYWdpYnpwNmF6eWF5dGlrdDQ5cGdteW1tNXp4Z3hwNXRnMzNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KoAQvGUg2fj1fCNHuR/giphy.gif"
+       width="500"
+       alt="Строительство Звезды Смерти">
 ---
 
 <h1 align="center">ИМПЕРСКИЙ АРХИВ</h1>
