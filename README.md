@@ -8,7 +8,7 @@
 <p align="center"><i>Порядок в галактике.</i></p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZpd2M1eTgwZHZmaW10OTF6aHVuaHI2ZmppZWM4bzk1YTlsYXJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohA2IwgX1MWQcPl6g/giphy.gif"
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3Y3Vna3hyYnF2YWNuMGh0YTBiajYwdTdkNzR2c2N1YXAzM28xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owzW193WohlOkugsE/giphy.gif"
        width="680"
        alt="Long live the Empire!">
 </p>
